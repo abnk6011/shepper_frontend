@@ -8,7 +8,7 @@ First clone the repo
 
 Then cd into the folder
 
-### `cd shepper_frontent`
+### `cd shepper_frontend`
 
 Install node modules
 
